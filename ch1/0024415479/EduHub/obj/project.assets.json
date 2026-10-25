@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\eduhub\\EduHub\\EduHub.csproj",
+      "projectUniqueName": "C:\\Users\\Vel\\Downloads\\main\\ch1\\0024415479\\EduHub\\EduHub.csproj",
       "projectName": "EduHub",
-      "projectPath": "D:\\Git\\eduhub\\EduHub\\EduHub.csproj",
+      "projectPath": "C:\\Users\\Vel\\Downloads\\main\\ch1\\0024415479\\EduHub\\EduHub.csproj",
       "packagesPath": "C:\\Users\\Vel\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\eduhub\\EduHub\\obj\\",
+      "outputPath": "C:\\Users\\Vel\\Downloads\\main\\ch1\\0024415479\\EduHub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
